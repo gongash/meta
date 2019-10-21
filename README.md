@@ -18,12 +18,12 @@ If you have an idea or a project that needs funding, [create a new issue](https:
 
 ## Useful Links
 
- - [Ellaism Website](https://ellaism.org/)
- - [Ellaism Wiki](https://wiki.ellaism.org/)
- - [Block Explorer](https://explorer.ellaism.org/)
+ - [Ellaism Website](https://ellaism.io/)
+ - [Ellaism Wiki](https://wiki.ellaism.io/)
+ - [Block Explorer](https://explorer.ellaism.io/)
  - [Network Stats](https://stats.ellaism.org/)
  - [Protocol Specifications](https://github.com/ellaism/specs)
 
 ## Donate to Ellaism
 
-Ellaism was not pre-mined and did not raise funds via an ICO. Ellaism is a community-driven project where donations are welcomed in order to fund initiatives that will improve the Ellaism ecosystem. You can find the donation addresses for developers and community members on the [Ellaism Donation page](https://ellaism.org/donate/).
+Ellaism was not pre-mined and did not raise funds via an ICO. Ellaism is a community-driven project where donations are welcomed in order to fund initiatives that will improve the Ellaism ecosystem. You can find the donation addresses for developers and community members on the [Ellaism Donation page](https://ellaism.io/donate/).
